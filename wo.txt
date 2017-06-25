@@ -1,2 +1,6 @@
 asdasd
+<<<<<<< HEAD
 master fenxzhi
+=======
+xinfenzhi
+>>>>>>> xin
